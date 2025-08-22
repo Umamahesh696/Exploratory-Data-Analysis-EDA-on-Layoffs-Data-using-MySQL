@@ -4,7 +4,7 @@
 
 The goal was to find out which companies laid off the most people, which industries and countries were hit hardest, and how layoffs changed over time (month by month and year by year). The analysis also showed cases where companies shut down and revealed important global layoff trends.
 
-**Dataset Source:**https://www.kaggle.com/datasets/swaptr/layoffs-2022
+**Dataset Source:** https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 The same data was used for cleaning and analysis.
 
